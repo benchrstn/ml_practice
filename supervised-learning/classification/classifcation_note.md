@@ -121,4 +121,4 @@ Multi-class classification can be treated as an extension of binary classificati
 
 # Reference
 
-![Google Crash Course Classification](https://developers.google.com/machine-learning/crash-course/classification)
+[Google Crash Course Classification](https://developers.google.com/machine-learning/crash-course/classification)
